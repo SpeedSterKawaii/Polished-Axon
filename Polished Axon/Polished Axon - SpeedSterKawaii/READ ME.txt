@@ -1,0 +1,16 @@
+First of all I would like to give credits to ElKoax for the axon source and I would like to credit Mellon for the banger addys :)
+
+-- CHANGELOG --
+
+Not much has been done except
+- Added DrawingLIB / Drawing API
+- Added garbage collection (basically it helps with your game crashing)
+- Cleaned the source a bit and added // comments so you can know what to do for certain things.
+
+ty ElKoax and Mellon!
+
+
+-- POLISHED AXON --
+
+This is basically buffed, but beter.
+enjoy, works perfectly fine :)
